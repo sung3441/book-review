@@ -5,7 +5,7 @@
 - 서수환 옮김
 
 목차
-- ch00 리팩토링이란
+- [ch00 리팩토링이란](https://github.com/sung3441/book-review/blob/main/java_refactoring_for_beginner/src/ch00/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%B4%EB%9E%80.md)
 - ch01 매직 넘버를 기호 상수로 치환
 - ch02 제어 플래그 삭제
 - ch03 어서션 도입
