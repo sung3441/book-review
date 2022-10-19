@@ -10,7 +10,7 @@
 - [ch02 제어 플래그 삭제](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch02)
 - [ch03 어서션 도입](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch03)
 - [ch04 널 객체 도입](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch04)
-- ch05 메서드 추출
+- [ch05 메서드 추출](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch05)
 - ch06 클래스 추출
 - ch07 분류 코드를 클래스로 치환
 - ch08 분류 코드를 하위 클래스로 치환
