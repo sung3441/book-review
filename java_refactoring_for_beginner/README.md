@@ -11,11 +11,11 @@
 - [ch03 어서션 도입](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch03)
 - [ch04 널 객체 도입](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch04)
 - [ch05 메서드 추출](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch05)
-- ch06 클래스 추출
-- ch07 분류 코드를 클래스로 치환
-- ch08 분류 코드를 하위 클래스로 치환
-- ch09 분류 코드를 상태/전략 패턴으로 치환
-- ch10 에러 코드를 예외로 치환
+- [ch06 클래스 추출](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch06)
+- [ch07 분류 코드를 클래스로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch07)
+- [ch08 분류 코드를 하위 클래스로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch08)
+- [ch09 분류 코드를 상태/전략 패턴으로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch09)
+- [ch10 에러 코드를 예외로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch05)
 - ch11 생성자를 팩토리 메서드로 치환
 - ch12 관측 데이터 복제
 - ch13 상속을 위임으로 치환
