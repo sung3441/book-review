@@ -16,8 +16,8 @@
 - [ch08 분류 코드를 하위 클래스로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch08)
 - [ch09 분류 코드를 상태/전략 패턴으로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch09)
 - [ch10 에러 코드를 예외로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch10)
-- ch11 생성자를 팩토리 메서드로 치환
-- ch12 관측 데이터 복제
-- ch13 상속을 위임으로 치환
-- ch14 대리자 은폐
+- [ch11 생성자를 팩토리 메서드로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch11)
+- [ch12 관측 데이터 복제](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch12)
+- [ch13 상속을 위임으로 치환](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch13)
+- [ch14 대리자 은폐](https://github.com/sung3441/book-review/tree/main/java_refactoring_for_beginner/src/ch14)
 - ch15 상속 구조 정리
